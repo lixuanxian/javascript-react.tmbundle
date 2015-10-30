@@ -4,6 +4,7 @@
 <dict>
 	<key>fileTypes</key>
 	<array>
+	 	<string>js</string>
 		<string>jsx</string>
 	</array>
 	<key>keyEquivalent</key>
